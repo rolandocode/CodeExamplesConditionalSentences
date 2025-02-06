@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\bin\Debug\IterationsExercise.exe.config
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\bin\Debug\IterationsExercise.exe
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\bin\Debug\IterationsExercise.pdb
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\obj\Debug\IterationsExercise.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\obj\Debug\IterationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\obj\Debug\IterationsExercise.exe
+C:\Users\rolan\source\repos\IfExample\IterationsExercise\obj\Debug\IterationsExercise.pdb

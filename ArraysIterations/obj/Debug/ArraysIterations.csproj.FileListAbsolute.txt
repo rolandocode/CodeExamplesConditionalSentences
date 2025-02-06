@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\bin\Debug\ArraysIterations.exe.config
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\bin\Debug\ArraysIterations.exe
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\bin\Debug\ArraysIterations.pdb
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\obj\Debug\ArraysIterations.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\obj\Debug\ArraysIterations.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\obj\Debug\ArraysIterations.exe
+C:\Users\rolan\source\repos\IfExample\ArraysIterations\obj\Debug\ArraysIterations.pdb

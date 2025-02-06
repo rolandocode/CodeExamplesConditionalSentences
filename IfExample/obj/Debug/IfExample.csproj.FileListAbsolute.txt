@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\IfExample\IfExample\bin\Debug\IfExample.exe.config
+C:\Users\rolan\source\repos\IfExample\IfExample\bin\Debug\IfExample.exe
+C:\Users\rolan\source\repos\IfExample\IfExample\bin\Debug\IfExample.pdb
+C:\Users\rolan\source\repos\IfExample\IfExample\obj\Debug\IfExample.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\IfExample\IfExample\obj\Debug\IfExample.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\IfExample\IfExample\obj\Debug\IfExample.exe
+C:\Users\rolan\source\repos\IfExample\IfExample\obj\Debug\IfExample.pdb

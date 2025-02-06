@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rolan\\source\\repos\\IfExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076F2506-8637-406A-A070-A42A649F7BAB}|IfExample\\IfExample.csproj|c:\\users\\rolan\\source\\repos\\ifexample\\ifexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2506-8637-406A-A070-A42A649F7BAB}|IfExample\\IfExample.csproj|solutionrelative:ifexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A681913-8C14-4BEB-8823-4C10B4177017}|IterationsExercise\\IterationsExercise.csproj|c:\\users\\rolan\\source\\repos\\ifexample\\iterationsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A681913-8C14-4BEB-8823-4C10B4177017}|IterationsExercise\\IterationsExercise.csproj|solutionrelative:iterationsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6FC9-7281-49C4-91AA-162F154662DF}|LeapYear\\LeapYear.csproj|c:\\users\\rolan\\source\\repos\\ifexample\\leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6FC9-7281-49C4-91AA-162F154662DF}|LeapYear\\LeapYear.csproj|solutionrelative:leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD476251-98BE-4CBA-A5EE-DF733E4EC0FB}|ArraysIterations\\ArraysIterations.csproj|c:\\users\\rolan\\source\\repos\\ifexample\\arraysiterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD476251-98BE-4CBA-A5EE-DF733E4EC0FB}|ArraysIterations\\ArraysIterations.csproj|solutionrelative:arraysiterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\source\\repos\\IfExample\\ArraysIterations\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysIterations\\Program.cs",
+              "ToolTip": "C:\\Users\\rolan\\source\\repos\\IfExample\\ArraysIterations\\Program.cs",
+              "RelativeToolTip": "ArraysIterations\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvwsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:57:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\source\\repos\\IfExample\\IterationsExercise\\Program.cs",
+              "RelativeDocumentMoniker": "IterationsExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\rolan\\source\\repos\\IfExample\\IterationsExercise\\Program.cs",
+              "RelativeToolTip": "IterationsExercise\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:26:16.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\source\\repos\\IfExample\\LeapYear\\Program.cs",
+              "RelativeDocumentMoniker": "LeapYear\\Program.cs",
+              "ToolTip": "C:\\Users\\rolan\\source\\repos\\IfExample\\LeapYear\\Program.cs",
+              "RelativeToolTip": "LeapYear\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:00:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\source\\repos\\IfExample\\IfExample\\Program.cs",
+              "RelativeDocumentMoniker": "IfExample\\Program.cs",
+              "ToolTip": "C:\\Users\\rolan\\source\\repos\\IfExample\\IfExample\\Program.cs",
+              "RelativeToolTip": "IfExample\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:26:21.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
