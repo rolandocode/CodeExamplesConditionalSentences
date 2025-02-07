@@ -20,7 +20,7 @@ namespace IfExample
 
 			do
 			{
-				Console.WriteLine("Ingresa los numeros que quieras, cuando quiera parar introduce 0: ");
+				Console.WriteLine("Ingresa los numeros que quieras, cuando quiera parar introduce -1: ");
 				//numero = Convert.ToInt32(Console.ReadLine());
 				string numString = Console.ReadLine();
 				numero = double.Parse(numString);
